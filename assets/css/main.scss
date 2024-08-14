@@ -1,0 +1,74 @@
+---
+---
+
+/*
+ *    Minimal Mistakes Jekyll Theme
+ *
+ *  - Michael Rose
+ *  - mademistakes.com
+ *  - https://twitter.com/mmistakes
+ *
+*/
+
+@import "vendor/breakpoint/breakpoint"; // media query mixins
+@import "variables";
+@import "mixins";
+@import "vendor/susy/susy";
+
+@import "reset";
+@import "base";
+
+@import "utilities";
+@import "animations";
+@import "tables";
+@import "buttons";
+@import "notices";
+@import "masthead";
+@import "navigation";
+@import "footer";
+@import "syntax";
+
+@import "forms";
+
+@import "page";
+@import "archive";
+@import "sidebar";
+
+@import "vendor/font-awesome/fontawesome";
+@import "vendor/font-awesome/solid";
+@import "vendor/font-awesome/brands";
+@import "vendor/magnific-popup/magnific-popup";
+@import "print";
+
+/* Global styles for all links */
+a {
+    color: #5c5a5aed; /* Replace with your desired color */
+    text-decoration: none; /* Optional: Remove underline */
+}
+
+/* Global styles for hovered links */
+a:hover {
+    color: #9b0404ed; /* Replace with your desired hover color */
+    text-decoration: underline; /* Optional: Add underline on hover */
+}
+
+// /* Global styles for visited links */
+// a:visited {
+//     color: #551a8b; /* Replace with your desired visited color */
+// }
+
+// /* Global styles for active links (when clicked) */
+// a:active {
+//     color: #ff6347; /* Replace with your desired active color */
+// }
+
+
+#publications a {
+    color: #FF6C0C; /* Replace with your desired color */
+    text-decoration: none; /* Optional: Customize text decoration */
+}
+
+#publications a:hover {
+    color: rgb(145, 41, 3)ed; /* Optional: Color on hover */
+    text-decoration: underline; /* Optional: Add underline on hover */
+}
