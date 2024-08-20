@@ -13,9 +13,9 @@ title                    : "Mehdi Soleimanifar"
 title_separator          : "-"
 name                     : &name "Mehdi Soleimanifar"
 description              : &description "personal description"
-url                      : "https://gitmehdis.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/mehdisole.github.io" # the subpath of your site, e.g. "/blog"
-repository               : "gitmehdis/mehdisole.github.io"
+url                      : "https://mehdis.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : ""
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
