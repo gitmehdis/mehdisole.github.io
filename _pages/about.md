@@ -22,8 +22,16 @@ I am interested in quantum computing and quantum information science. My work dr
 
 Publications
 ======
-**\*** **_Authors are ordered alphabetically_**
+**\*** **_Indicates authors listed in alphabetical order._**
 <div id="publications">
+
+<div style="font-size: 0.9em; line-height: 1.4;">
+    <ul>
+        <li>  <span style="font-weight: bold;">When can classical neural networks represent quantum states?</span>  
+        <br> Tai-Hsuan Yang, Mehdi Soleimanifar  <span style="font-style: italic;">(co-first author)</span>, Thiago Bergamaschi, John Preskill<span style="font-weight: bold;"></span>
+        <br><a href="https://arxiv.org/pdf/2410.23152" style="font-style: bold;">(arXiv)</a>, <a href="https://x.com/MSoleimanifar/status/1852208987976155503" style="font-style: bold;">(Summary)</a>, <a href="https://github.com/xiaotai-yang/NQS_cmi" style="font-style: bold;">(Code)</a></li>
+    </ul>
+</div>
 
 <div style="font-size: 0.9em; line-height: 1.4;">
     <ul>

@@ -6,6 +6,9 @@ permalink: /books/
 - **The Ministry for the Future: A Novel** – Kim Stanley Robinson  
   <sub>Believable predictions of life in a changing climate, a gripping oppening, and bold ideas for fixing the future.</sub>
 
+- **Harry Potter and the Methods of Rationality** – Eliezer Yudkowsky  
+  <sub>Better than the original.</sub>
+
 - **The Song of the Cell: An Exploration of Medicine and the New Human** – Siddhartha Mukherjee  
   <sub>From gene therapy to regenerative medicine.</sub>
 
