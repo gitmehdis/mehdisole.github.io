@@ -27,6 +27,14 @@ Publications
 
 <div style="font-size: 0.9em; line-height: 1.4;">
     <ul>
+        <li>  <span style="font-weight: bold;">Mixing time of quantum Gibbs sampling for random sparse Hamiltonians</span>  
+        <br> Akshar Ramkumar, Mehdi Soleimanifar<span style="font-weight: bold;"></span>
+        <br><a href="https://arxiv.org/pdf/2411.04454" style="font-style: bold;">(arXiv)</a></li>
+    </ul>
+</div>
+
+<div style="font-size: 0.9em; line-height: 1.4;">
+    <ul>
         <li>  <span style="font-weight: bold;">When can classical neural networks represent quantum states?</span>  
         <br> Tai-Hsuan Yang, Mehdi Soleimanifar  <span style="font-style: italic;">(co-first author)</span>, Thiago Bergamaschi, John Preskill<span style="font-weight: bold;"></span>
         <br><a href="https://arxiv.org/pdf/2410.23152" style="font-style: bold;">(arXiv)</a>, <a href="https://x.com/MSoleimanifar/status/1852208987976155503" style="font-style: bold;">(Summary)</a>, <a href="https://github.com/xiaotai-yang/NQS_cmi" style="font-style: bold;">(Code)</a></li>
