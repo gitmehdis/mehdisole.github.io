@@ -3,6 +3,21 @@ title: One-Liners About My Recent Reads.
 author_profile: true
 permalink: /books/
 --- 
+- **A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains** – Max S. Bennett    
+  <sub>An accessible look at how the brain works like a computer, great for those with little to no background in neuroscience like me, while drawing clear parallels to AI algorithms.</sub>
+
+- **When Breath Becomes Air** – Paul Kalanithi    
+  <sub>A memoir that made me reflect on my mortality and what gives my life meaning.</sub>
+
+- **Atlas Shrugged** – Ayn Rand   
+  <sub>I’ll also need some Peter Singer to keep the balance sharp.</sub>
+
+- **The Laws of Human Nature** – Robert Greene    
+  <sub>My biggest takeaway is that I need to read about Ernest Shackleton's Antarctic expedition.</sub>
+
+- **Red Seas Under Red Skies: Gentleman Bastard, Book 2** – Scott Lynch   
+<sub>My favorite chapter was "Reminiscence: By Their Own Rope."</sub>
+
 - **The Ministry for the Future: A Novel** – Kim Stanley Robinson  
   <sub>Believable predictions of life in a changing climate, a gripping oppening, and bold ideas for fixing the future.</sub>
 
