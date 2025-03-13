@@ -4,21 +4,28 @@ author_profile: true
 permalink: /books/
 --- 
 
+- **Endurance: Shackleton's Incredible Voyage** – Alfred Lansing   
+    <sub>A compelling narrative of the trans-Antarctic expedition, highlighting Shackleton’s exceptional judgment of his men’s mood and his dynamic optimization of their roles within his survival strategy.
+    </sub>
+
+- **The Catalyst: RNA and the Quest to Unlock Life's Deepest Secrets** – Thomas R. Cech   
+    <sub>Before AI, determining the 3D shape of RNA was a painstaking challenge. The discovery of ribozymes overturned the belief that only proteins could catalyze reactions. Life may have begun with self-replicating RNA.
+    </sub>
+
 - **A City on Mars: Can We Settle Space, Should We Settle Space, and Have We Really Thought This Through?** – Kelly and Zach Weinersmith   
   <sub>A bit too pessimistic for my taste, focusing too much on today’s tech limitations rather than the wilder possibilities of space settlement with post-AGI, fully gene-edited humans.</sub>
 
-- **The Catalyst: RNA and the Quest to Unlock Life's Deepest Secrets** – Thomas R. Cech   
-  <sub>Before AI, determining the 3D shape of RNA was a painstaking challenge. The discovery of ribozymes overturned the belief that only proteins could catalyze reactions. Life may have begun with self-replicating RNA.</sub>
-
-  
 - **A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains** – Max S. Bennett    
   <sub>An accessible look at how the brain works like a computer, great for those with little to no background in neuroscience like me, while drawing clear parallels to AI algorithms.</sub>
 
 - **When Breath Becomes Air** – Paul Kalanithi    
   <sub>A memoir that made me reflect on my mortality and what gives my life meaning.</sub>
 
+- **Ayn Rand and the World She Made** – Anne Conover Heller   
+   <sub>I was surprised by how much of her experience as an immigrant resonated with me. It's also evident how her life shaped her Objectivist philosophy.</sub>
+
 - **Atlas Shrugged** – Ayn Rand   
-  <sub>I’ll also need some Peter Singer to keep the balance sharp.</sub>
+  <sub>Still strikingly relevant today—though a dose of Peter Singer helps keep the balance sharp.</sub>
 
 - **The Laws of Human Nature** – Robert Greene    
   <sub>My biggest takeaway is that I need to read about Ernest Shackleton's Antarctic expedition.</sub>
