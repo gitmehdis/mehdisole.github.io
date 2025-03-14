@@ -22,7 +22,7 @@ I am interested in quantum computing and quantum information science. My work dr
 
 Publications
 ======
-**\*** **_Indicates authors listed in alphabetical order._**
+**\*** _Indicates authors listed either in alphabetical order or based on equal contribution._
 <div id="publications">
 
 <div style="font-size: 0.9em; line-height: 1.4;">
@@ -36,7 +36,7 @@ Publications
 <div style="font-size: 0.9em; line-height: 1.4;">
     <ul>
         <li>  <span style="font-weight: bold;">When can classical neural networks represent quantum states?</span>  
-        <br> Tai-Hsuan Yang, Mehdi Soleimanifar  <span style="font-style: italic;">(co-first author)</span>, Thiago Bergamaschi, John Preskill<span style="font-weight: bold;"></span>
+        <br> Tai-Hsuan Yang<span style="font-weight: bold;">*</span>, Mehdi Soleimanifar<span style="font-weight: bold;">*</span>, Thiago Bergamaschi, John Preskill<span style="font-weight: bold;"></span>
         <br><a href="https://arxiv.org/pdf/2410.23152" style="font-style: bold;">(arXiv)</a>, <a href="https://x.com/MSoleimanifar/status/1852208987976155503" style="font-style: bold;">(Summary)</a>, <a href="https://github.com/xiaotai-yang/NQS_cmi" style="font-style: bold;">(Code)</a></li>
     </ul>
 </div>
@@ -44,7 +44,7 @@ Publications
 <div style="font-size: 0.9em; line-height: 1.4;">
     <ul>
         <li>  <span style="font-weight: bold;">Quantum advantage from measurement-induced entanglement in random shallow circuits</span>  
-        <br> Adam Bene Watts, David Gosset, Yinchen Liu, Mehdi Soleimanifar<span style="font-weight: bold;">*</span>
+        <br> Adam Bene Watts<span style="font-weight: bold;">*</span>, David Gosset<span style="font-weight: bold;">*</span>, Yinchen Liu<span style="font-weight: bold;">*</span>, Mehdi Soleimanifar<span style="font-weight: bold;">*</span>
             <ul style="font-style: italic;">
                 <li>To appear in PRX Quantum</li>
                 <li>Contributed talk at QIP 2025</li>
@@ -58,7 +58,7 @@ Publications
     <ul>
         <li>
             <span style="font-weight: bold;">Certifying almost all quantum states with few single-qubit measurements  </span>
-            <br>  Hsin-Yuan Huang, John Preskill, Mehdi Soleimanifar<span style="font-weight: bold;">*</span>
+            <br>  Hsin-Yuan Huang<span style="font-weight: bold;">*</span>, John Preskill<span style="font-weight: bold;">*</span>, Mehdi Soleimanifar<span style="font-weight: bold;">*</span>
             <ul style="font-style: italic;">
                 <li>In Symposium on Foundations of Computer Science (FOCS) 2024</li>
                 <li>Contributed talk at QIP 2024</li>
@@ -72,7 +72,7 @@ Publications
     <ul>
         <li>
             <span style="font-weight: bold;">Testing matrix product states</span>   
-            <br> Mehdi Soleimanifar<span style="font-weight: bold;">*</span>, John Wright
+            <br> Mehdi Soleimanifar<span style="font-weight: bold;">*</span>, John Wright<span style="font-weight: bold;">*</span>
             <ul style="font-style: italic;">
                 <li><a href="https://epubs.siam.org/doi/abs/10.1137/1.9781611977073.68" style="font-style: italic;">In Symposium on Discrete Algorithms (SODA) 2022</a></li>
                 <li>Contributed talk at QIP 2022</li>
@@ -86,7 +86,7 @@ Publications
     <ul>
         <li>
             <span style="font-weight: bold;">Improved approximation algorithms for bounded-degree local Hamiltonians</span>   
-            <br> Anurag Anshu, David Gosset, Karen J. Morenz Korol, Mehdi Soleimanifar<span style="font-weight: bold;">*</span>
+            <br> Anurag Anshu<span style="font-weight: bold;">*</span>, David Gosset<span style="font-weight: bold;">*</span>, Karen J. Morenz Korol<span style="font-weight: bold;">*</span>, Mehdi Soleimanifar<span style="font-weight: bold;">*</span>
             <ul style="font-style: italic;">
                 <li><a href="https://dx.doi.org/10.1103/PhysRevLett.127.250502" style="font-style: italic;">Physical Review Letters</a></li>
                 <li>Contributed talk at QIP 2022</li>
@@ -101,7 +101,7 @@ Publications
     <ul>
         <li>
             <span style="font-weight: bold;">Entanglement spread area law in gapped ground states</span>   
-            <br> Anurag Anshu, Aram Harrow, Mehdi Soleimanifar<span style="font-weight: bold;">*</span>
+            <br> Anurag Anshu<span style="font-weight: bold;">*</span>, Aram Harrow<span style="font-weight: bold;">*</span>, Mehdi Soleimanifar<span style="font-weight: bold;">*</span>
             <ul style="font-style: italic;">
                 <li><a href="https://www.nature.com/articles/s41567-022-01740-7" style="font-style: italic;">Nature Physics 2022</a></li>
                 <li>Contributed talk at QIP 2021</li>
@@ -116,7 +116,7 @@ Publications
     <ul>
         <li>
             <span style="font-weight: bold;">Sample-efficient learning of interacting quantum systems</span>   
-            <br> Anurag Anshu, Srinivasan Arunachalam, Tomotaka Kuwahara, Mehdi Soleimanifar<span style="font-weight: bold;">*</span>
+            <br> Anurag Anshu<span style="font-weight: bold;">*</span>, Srinivasan Arunachalam<span style="font-weight: bold;">*</span>, Tomotaka Kuwahara<span style="font-weight: bold;">*</span>, Mehdi Soleimanifar<span style="font-weight: bold;">*</span>
             <ul style="font-style: italic;">
                 <li><a href="https://doi.org/10.1038/s41567-021-01232-0" style="font-style: italic;">Nature Physics 2021</a></li>
                 <li><a href="https://doi.ieeecomputersociety.org/10.1109/FOCS46700.2020.00069" style="font-style: italic;">In Symposium on Foundations of Computer Science (FOCS) 2020</a></li>
@@ -132,7 +132,7 @@ Publications
     <ul>
         <li>
             <span style="font-weight: bold;">Classical algorithms, correlation decay, and complex zeros of partition functions of quantum many-body systems</span>   
-            <br> Aram Harrow, Saeed Mehraban, Mehdi Soleimanifar<span style="font-weight: bold;">*</span>
+            <br> Aram Harrow<span style="font-weight: bold;">*</span>, Saeed Mehraban<span style="font-weight: bold;">*</span>, Mehdi Soleimanifar<span style="font-weight: bold;">*</span>
             <ul style="font-style: italic;">
                 <li><a href="https://dl.acm.org/doi/10.1145/3357713.3384322" style="font-style: italic;">In Symposium on Theory of Computing (STOC) 2020</a></li>
             </ul>
