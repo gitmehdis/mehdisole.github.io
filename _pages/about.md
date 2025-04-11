@@ -46,7 +46,7 @@ Publications
         <li>  <span style="font-weight: bold;">Quantum advantage from measurement-induced entanglement in random shallow circuits</span>  
         <br> Adam Bene Watts<span style="font-weight: bold;">*</span>, David Gosset<span style="font-weight: bold;">*</span>, Yinchen Liu<span style="font-weight: bold;">*</span>, Mehdi Soleimanifar<span style="font-weight: bold;">*</span>
             <ul style="font-style: italic;">
-                <li>To appear in PRX Quantum</li>
+                <li><a href="https://doi.org/10.1103/PRXQuantum.6.010356" style="font-style: italic;">PRX Quantum</a></li>
                 <li>Contributed talk at QIP 2025</li>
             </ul>
         <a href="https://arxiv.org/pdf/2407.21203" style="font-style: bold;">(arXiv)</a>, <a href="https://x.com/MSoleimanifar/status/1818853591773503946" style="font-style: bold;">(Summary)</a></li>

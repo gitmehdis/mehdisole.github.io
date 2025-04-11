@@ -5,8 +5,8 @@ permalink: /books/
 --- 
 
 - **Endurance: Shackleton's Incredible Voyage** – Alfred Lansing   
-    <sub>A compelling narrative of the trans-Antarctic expedition, highlighting Shackleton’s exceptional judgment of his men’s mood and his dynamic optimization of their roles within his survival strategy. 
-    </sub>
+    <sub>A compelling narrative of the trans-Antarctic expedition, highlighting Shackleton’s exceptional judgment of his men’s mood and his dynamic optimization of their roles within his survival strategy.
+    </sub> 
 
 - **The Catalyst: RNA and the Quest to Unlock Life's Deepest Secrets** – Thomas R. Cech   
     <sub>Before AI, determining the 3D shape of RNA was a painstaking challenge. The discovery of ribozymes overturned the belief that only proteins could catalyze reactions. Life may have begun with self-replicating RNA.
