@@ -29,10 +29,10 @@ Publications
     <ul>
         <li>  <span style="font-weight: bold;">Mixing time of quantum Gibbs sampling for random sparse Hamiltonians</span>  
         <br> Akshar Ramkumar, Mehdi Soleimanifar<span style="font-weight: bold;"></span>
-        <br><a href="https://arxiv.org/pdf/2411.04454" style="font-style: bold;">(arXiv)</a></li>
+        <ul style="font-style: italic;"><li>Contributed talk at TQC 2025</li></ul>
+            <a href="https://arxiv.org/pdf/2411.04454" style="font-style: bold;">(arXiv)</a></li>
     </ul>
 </div>
-
 <div style="font-size: 0.9em; line-height: 1.4;">
     <ul>
         <li>  <span style="font-weight: bold;">When can classical neural networks represent quantum states?</span>  
