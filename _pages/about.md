@@ -60,6 +60,7 @@ Publications
             <span style="font-weight: bold;">Certifying almost all quantum states with few single-qubit measurements  </span>
             <br>  Hsin-Yuan Huang<span style="font-weight: bold;">*</span>, John Preskill<span style="font-weight: bold;">*</span>, Mehdi Soleimanifar<span style="font-weight: bold;">*</span>
             <ul style="font-style: italic;">
+                <li>To appear in Nature Physics 2025</li>
                 <li>In Symposium on Foundations of Computer Science (FOCS) 2024</li>
                 <li>Contributed talk at QIP 2024</li>
             </ul>
