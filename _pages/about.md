@@ -27,6 +27,14 @@ Publications
 
 <div style="font-size: 0.9em; line-height: 1.4;">
     <ul>
+        <li>  <span style="font-weight: bold;">Power and limitations of linear programming decoder for quantum LDPC codes</span>  
+        <br> Shouzhen Gu, Mehdi Soleimanifar<span style="font-weight: bold;"></span>
+        <br><a href="https://arxiv.org/abs/2508.04769" style="font-style: bold;">(arXiv)</a>, <a href="https://zenodo.org/records/16748401" style="font-style: bold;">(Code)</a></li>
+    </ul>
+</div>
+
+<div style="font-size: 0.9em; line-height: 1.4;">
+    <ul>
         <li>  <span style="font-weight: bold;">Mixing time of quantum Gibbs sampling for random sparse Hamiltonians</span>  
         <br> Akshar Ramkumar, Mehdi Soleimanifar<span style="font-weight: bold;"></span>
         <ul style="font-style: italic;"><li>Contributed talk at TQC 2025</li></ul>

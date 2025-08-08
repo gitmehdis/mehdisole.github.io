@@ -4,6 +4,30 @@ author_profile: true
 permalink: /books/
 --- 
 
+- **Red Mars** – Kim Stanley Robinson      
+    <sub>Astonishing book. I loved the back and forth between Ann and Sax on terraforming Mars: “The beauty of Mars exists in the human mind...”
+    </sub>
+
+- **The Pillars of the Earth** – Ken Follett      
+    <sub>My first non-fantasy read on medieval life in Europe — pairs well with the movie Becket, though I liked the latter much more.
+    </sub>
+
+- **Wabi-Sabi for Artists, Designers, Poets & Philosophers** – Leonard Koren      
+    <sub>Short book that helped me appreciate some of the Wabi-Sabi subtleties in Huntington Garden.
+    </sub>
+
+- **Poor Charlie’s Almanack** – Charles T. Munger      
+    <sub>I shied away from reading this at first, thinking it was a cliché. But oh man, Munger was sharp and full of unexpected insights. For a taste, check out Talk Two: A Lesson on Elementary, Worldly Wisdom.
+    </sub>
+
+- **The Beginning of Infinity: Explanations That Transform the World** – David Deutsch      
+    <sub>I first tried reading this book in freshman college unsuccessfully. This was my second attempt, but I still couldn’t bring myself to finish it despite a lot of people liking it.
+    </sub>
+
+- **A History of Ancient Rome in Twelve Coins** – Gareth Harney      
+    <sub>Much more engaging than I anticipated. Romans carried portable mints into battle to pay their troops with freshly coined propaganda.
+    </sub>
+
 - **Endurance: Shackleton's Incredible Voyage** – Alfred Lansing   
     <sub>A compelling narrative of the trans-Antarctic expedition, highlighting Shackleton’s exceptional judgment of his men’s mood and his dynamic optimization of their roles within his survival strategy. 
     </sub>
