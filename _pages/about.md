@@ -37,7 +37,7 @@ Publications
     <ul>
         <li>  <span style="font-weight: bold;">Mixing time of quantum Gibbs sampling for random sparse Hamiltonians</span>  
         <br> Akshar Ramkumar, Mehdi Soleimanifar<span style="font-weight: bold;"></span>
-        <ul style="font-style: italic;"><li>Contributed talk at TQC 2025</li></ul>
+        <ul style="font-style: italic;"><li><a href="https://doi.org/10.4230/LIPIcs.TQC.2025.3" style="fon-style: italic;">Contributed talk at TQC 2025</a></li></ul>
             <a href="https://arxiv.org/pdf/2411.04454" style="font-style: bold;">(arXiv)</a></li>
     </ul>
 </div>
@@ -68,8 +68,8 @@ Publications
             <span style="font-weight: bold;">Certifying almost all quantum states with few single-qubit measurements  </span>
             <br>  Hsin-Yuan Huang<span style="font-weight: bold;">*</span>, John Preskill<span style="font-weight: bold;">*</span>, Mehdi Soleimanifar<span style="font-weight: bold;">*</span>
             <ul style="font-style: italic;">
-                <li>To appear in Nature Physics 2025</li>
-                <li>In Symposium on Foundations of Computer Science (FOCS) 2024</li>
+                <li><a href="https://www.nature.com/articles/s41567-025-03025-1" style="font-style: italic;">Nature Physics 2025</a></li>
+                <li><a href="https://ieeexplore.ieee.org/document/10756060" style="font-style: italic;">In Symposium on Foundations of Computer Science (FOCS) 2024</a></li>
                 <li>Contributed talk at QIP 2024</li>
             </ul>
             <a href="https://arxiv.org/pdf/2404.07281" style="font-style: bold;">(arXiv)</a>, <a href="https://x.com/RobertHuangHY/status/1780093918488773026" style="font-style: bold;">(Summary)</a>, <a href="/files/CertifyingStates.pdf" style="font-style: bold;">(Slides)</a>, <a href="https://github.com/hsinyuan-huang/certify-quantum-states" style="font-style: bold;">(Code)</a>

@@ -3,11 +3,15 @@ title: One-Liners About My Recent Reads.
 author_profile: true
 permalink: /books/
 --- 
-
-- **Red Mars** – Kim Stanley Robinson      
+- **All Systems Red** – Martha Wells      
+    <sub>Similar vibes to Ancillary Justice by Ann Leckie. Neither resonated with me as much as their reputation suggested and they felt a bit overhyped.
+    </sub>
+- **Red Mars** – Kim Stanley Robinson            
     <sub>Astonishing book. I loved the back and forth between Ann and Sax on terraforming Mars: “The beauty of Mars exists in the human mind...”
     </sub>
-
+- **Green Mars** – Kim Stanley Robinson       
+  <sub>The Scientist as Hero chapter is one of the most truthful descriptions of a scientist I have read in this genre. Coincidentally, while reading this book I was flying over the Grand Canyon, which made the Martian landscape descriptions feel even more profound.
+  </sub>
 - **The Pillars of the Earth** – Ken Follett      
     <sub>My first non-fantasy read on medieval life in Europe — pairs well with the movie Becket, though I liked the latter much more.
     </sub>
