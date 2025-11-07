@@ -5,7 +5,7 @@ permalink: /books/
 --- 
 - **All Systems Red** – Martha Wells      
     <sub>Similar vibes to Ancillary Justice by Ann Leckie. Neither resonated with me as much as their reputation suggested and they felt a bit overhyped.
-    </sub>
+    </sub> 
 - **Red Mars** – Kim Stanley Robinson            
     <sub>Astonishing book. I loved the back and forth between Ann and Sax on terraforming Mars: “The beauty of Mars exists in the human mind...”
     </sub>
