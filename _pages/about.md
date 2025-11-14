@@ -71,6 +71,7 @@ Publications
                 <li><a href="https://www.nature.com/articles/s41567-025-03025-1" style="font-style: italic;">Nature Physics 2025</a></li>
                 <li><a href="https://ieeexplore.ieee.org/document/10756060" style="font-style: italic;">In Symposium on Foundations of Computer Science (FOCS) 2024</a></li>
                 <li>Contributed talk at QIP 2024</li>
+                <li>Coverage: <a href="https://phys.org/news/2025-10-rigorous-approach-quantifies-quantum-states.html" style="font-style: italic;">Phys.org</a></li>
             </ul>
             <a href="https://arxiv.org/pdf/2404.07281" style="font-style: bold;">(arXiv)</a>, <a href="https://x.com/RobertHuangHY/status/1780093918488773026" style="font-style: bold;">(Summary)</a>, <a href="/files/CertifyingStates.pdf" style="font-style: bold;">(Slides)</a>, <a href="https://github.com/hsinyuan-huang/certify-quantum-states" style="font-style: bold;">(Code)</a>
         </li>

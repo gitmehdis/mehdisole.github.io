@@ -3,6 +3,9 @@ title: One-Liners About My Recent Reads.
 author_profile: true
 permalink: /books/
 --- 
+- **Piranesi** – Susanna Clarke     
+    <sub>Fun read, and a great example of a micro-genre (Quadraturin, House of Leaves, The Library of Babel, even back to the Cretan labyrinth) built around impossible architectures. I can’t help feeling they’re all metaphors for consciousness.
+    </sub> 
 - **All Systems Red** – Martha Wells      
     <sub>Similar vibes to Ancillary Justice by Ann Leckie. Neither resonated with me as much as their reputation suggested and they felt a bit overhyped.
     </sub> 
