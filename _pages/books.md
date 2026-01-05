@@ -3,18 +3,43 @@ title: One-Liners About My Recent Reads.
 author_profile: true
 permalink: /books/
 --- 
+
+- **When We Cease to Understand the World** – Benjamín Labatut     
+    <sub>I was weirded out a few times by the fictional narrative and had to check what actually happened historically. The most interesting takeaways for me were actually about AI: (1) Writing historical metafiction is probably a genre AI will be good at, and (2) the fate of Alexander Grothendieck (or Grigori Perelman) makes me uneasy about AI safety.
+    </sub> 
+
+- **The Machinery of Life** – David S. Goodsell     
+    <sub>A wonderful illustration of cellular and molecular structures and the mechanisms of life. In general, I have little intuition for scale and orders of magnitude at the cellular level, so this was very helpful. An excellent blog post (Cells Are Very Fast and Crowded Places by Ken Shirriff) pointed me to this book.
+    </sub>
+
+- **Shaman: A Novel of the Ice Age** – Kim Stanley Robinson     
+    <sub>A very vivid narrative of early modern humans in Ice Age Europe. It’s amazing how the story seems realistically consistent with what life would have been like for them, without our modern perspective. Not quite on par with his Mars trilogy, but Robinson has now become my favorite science-fiction writer.
+    </sub>
+
+- **Sparks of Genius** – Robert Root-Bernstein     
+    <sub>This wasn’t as strong as I had hoped. I didn’t come away with much that felt new.
+    </sub> 
+
+- **Children of Time** – Adrian Tchaikovsky     
+    <sub>Has some clever ideas, though a little cheesy. I read it after seeing jumping spiders courting in our yard, which made the spider parts especially fun to notice.
+    </sub> 
+
 - **Piranesi** – Susanna Clarke     
     <sub>Fun read, and a great example of a micro-genre (Quadraturin, House of Leaves, The Library of Babel, even back to the Cretan labyrinth) built around impossible architectures. I can’t help feeling they’re all metaphors for consciousness.
     </sub> 
+
 - **All Systems Red** – Martha Wells      
     <sub>Similar vibes to Ancillary Justice by Ann Leckie. Neither resonated with me as much as their reputation suggested and they felt a bit overhyped.
     </sub> 
+
 - **Red Mars** – Kim Stanley Robinson            
     <sub>Astonishing book. I loved the back and forth between Ann and Sax on terraforming Mars: “The beauty of Mars exists in the human mind...”
     </sub>
+
 - **Green Mars** – Kim Stanley Robinson       
   <sub>The Scientist as Hero chapter is one of the most truthful descriptions of a scientist I have read in this genre. Coincidentally, while reading this book I was flying over the Grand Canyon, which made the Martian landscape descriptions feel even more profound.
   </sub>
+  
 - **The Pillars of the Earth** – Ken Follett      
     <sub>My first non-fantasy read on medieval life in Europe — pairs well with the movie Becket, though I liked the latter much more.
     </sub>
