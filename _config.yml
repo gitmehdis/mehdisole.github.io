@@ -25,9 +25,9 @@ author:
   avatar           : "avatar.jpeg"
   name             : "Mehdi Soleimanifar"
   pronouns         : # example: "she/her"  
-  bio              : "Researcher"
+  bio              : "AI Researcher"
   location         : "Palo Alto, CA"
-  employer         : # "Caltech"
+  employer         : "Anthropic"
   uri              : # URL
   email            : "mehdi.soleimanifar@gmail.com"
 
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "gitmehdis"
+  # github           : "gitmehdis"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
