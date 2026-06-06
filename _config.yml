@@ -16,18 +16,17 @@ description              : &description "personal description"
 url                      : "https://mehdis.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gitmehdis/mehdisole.github.io"
-
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar.jpeg"
+  avatar           : #
   name             : "Mehdi Soleimanifar"
   pronouns         : # example: "she/her"  
-  bio              : "AI Researcher"
-  location         : "Palo Alto, CA"
-  employer         : "Anthropic"
+  bio              : #
+  location         : #
+  employer         : #
   uri              : # URL
   email            : "mehdi.soleimanifar@gmail.com"
 
@@ -66,7 +65,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : MSoleimanifar
+  twitter          : #
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -143,12 +142,6 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
-
-# Analytics
-analytics:
-  provider               :  "google" # false (default), "google", "google-universal", "google-analytics-4", "custom"
-  google:
-    tracking_id          :  "G-X3792X1LQV"
 
 
 # Reading Files

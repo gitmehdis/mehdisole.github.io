@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a Resident at [Anthropic](https://www.anthropic.com) working on Claude's scientific capabilities. I did my PhD in physics at MIT with [Aram Harrow](https://web.mit.edu/aram/www/), then I was as an AWS Quantum Postdoctoral Scholar at Caltech's [the Institute for Quantum Information and Matter](https://iqim.caltech.edu), hosted by [John Preskill](http://theory.caltech.edu/~preskill/) and [Urmila Mahadev](https://www.eas.caltech.edu/people/umahadev#profile-d0b3cee6-tab). 
+I did my PhD in physics at MIT with [Aram Harrow](https://web.mit.edu/aram/www/). Then I was an AWS Quantum Postdoctoral Scholar at [the Institute for Quantum Information and Matter](https://iqim.caltech.edu), at Caltech hosted by [John Preskill](http://theory.caltech.edu/~preskill/) and [Urmila Mahadev](https://www.eas.caltech.edu/people/umahadev#profile-d0b3cee6-tab). 
 
 My PhD Thesis
 ---
